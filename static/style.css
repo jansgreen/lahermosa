@@ -1,0 +1,52 @@
+.navbar-nav {
+    text-align: center;
+  }
+
+  .nav-icon{
+
+    font-size: 1.3rem;
+    width: 48px;
+    height: 48px;
+  }
+
+  .verticalMenu{
+    background-color: #0C2AEB ;
+  }
+
+  .verticalMenu li a {
+    color: #f4f4f4;
+  }
+.generalMain{
+  background-image: linear-gradient(to right, #70a7f0, #cfdff5);
+}
+
+.bacGrTransparent {
+    background-color: transparent;
+  }
+
+
+
+.nav-link:hover {
+    color: #b69b02;
+    text-shadow: 4px 4px 2px #fff3b0;
+}
+
+.iglesiaName {
+  
+    font-weight: bold;
+    background-image: url("./img/oroMetalico.jpg");
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  .pBienvenida {
+    text-align: left;
+  }
+
+  .lineWelcome{
+    margin-top: 20%;
+  }
+  
+  
